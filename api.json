@@ -1,7 +1,7 @@
 {
   "daily_production_summary": {
     "date": "2025-06-20", 
-    "daily_total_production_kg": 28500, 
+    "daily_total_production_kg": 30100, 
     "daily_production_target_kg": 30000, 
     "repair_amount_kg": 4500, 
     "previous_day_total_production_kg": 27000, 
