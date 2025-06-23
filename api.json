@@ -1,20 +1,20 @@
 {
   "daily_production_summary": {
     "date": "2025-06-20", 
-    "daily_total_production_kg": 30100, 
+    "daily_total_production_kg": 34870, 
     "daily_production_target_kg": 30000, 
-    "repair_amount_kg": 500, 
-    "previous_day_total_production_kg": 27000, 
+    "repair_amount_kg": 1500, 
+    "previous_day_total_production_kg": 21905, 
     "shifts": [
       {
         "name": "Vardiya 1",
         "time_frame": "07:00 - 15:00",
-        "production_kg": 4490 
+        "production_kg": 3490 
       },
       {
         "name": "Vardiya 2",
         "time_frame": "15:00 - 23:00",
-        "production_kg": 8250 
+        "production_kg": 7250 
       },
       {
         "name": "Vardiya 3",
