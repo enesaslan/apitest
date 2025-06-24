@@ -4,7 +4,7 @@
     "daily_total_production_kg": 34870, 
     "daily_production_target_kg": 30000, 
     "repair_amount_kg": 1500, 
-    "previous_day_total_production_kg": 21905, 
+    "previous_day_total_production_kg": 27000, 
     "shifts": [
       {
         "name": "Vardiya 1",
