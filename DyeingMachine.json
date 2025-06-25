@@ -1,56 +1,56 @@
 [
   {
-    "makine_kodu": "MAK-001",
-    "makine_tanimi": "CNC Freze Makinesi - Sol Hat 1",
+    "makine_kodu": "10-1",
+    "makine_tanimi": "10-1",
     "is_yuzdesi": 75.5
   },
   {
-    "makine_kodu": "MAK-002",
-    "makine_tanimi": "Lazer Kesim Makinesi - Orta Hat 2",
+    "makine_kodu": "50-1",
+    "makine_tanimi": "50-1",
     "is_yuzdesi": 90.0
   },
   {
-    "makine_kodu": "MAK-003",
+    "makine_kodu": "100-1",
     "makine_tanimi": "Robotik Kaynak Kolu - Montaj",
     "is_yuzdesi": 40.2
   },
   {
-    "makine_kodu": "MAK-004",
+    "makine_kodu": "100-2",
     "makine_tanimi": "Otomatik Paketleme Hattı",
     "is_yuzdesi": 60.0
   },
   {
-    "makine_kodu": "MAK-005",
+    "makine_kodu": "200-1",
     "makine_tanimi": "Kalite Kontrol Görüntüleme Sistemi",
     "is_yuzdesi": 95.1
   },
   {
-    "makine_kodu": "MAK-006",
+    "makine_kodu": "200-2",
     "makine_tanimi": "Enjeksiyon Kalıplama Makinesi",
     "is_yuzdesi": 30.7
   },
   {
-    "makine_kodu": "MAK-007",
+    "makine_kodu": "300-1",
     "makine_tanimi": "Yüzey İşlem Makinesi - Boya",
     "is_yuzdesi": 82.3
   },
   {
-    "makine_kodu": "MAK-008",
+    "makine_kodu": "300-2",
     "makine_tanimi": "Otomatik Delme ve Kılavuz Çekme",
     "is_yuzdesi": 55.0
   },
   {
-    "makine_kodu": "MAK-009",
+    "makine_kodu": "450-1",
     "makine_tanimi": "Hassas Taşlama Makinesi",
     "is_yuzdesi": 68.9
   },
   {
-    "makine_kodu": "MAK-010",
+    "makine_kodu": "450-2",
     "makine_tanimi": "3D Metal Yazıcı",
     "is_yuzdesi": 20.0
   },
   {
-    "makine_kodu": "MAK-011",
+    "makine_kodu": "600-1",
     "makine_tanimi": "Bükme Makinesi - Hidrolik",
     "is_yuzdesi": 78.0
   },
@@ -60,42 +60,42 @@
     "is_yuzdesi": 45.0
   },
   {
-    "makine_kodu": "MAK-013",
+    "makine_kodu": "600-2",
     "makine_tanimi": "Plazma Kesim Makinesi",
     "is_yuzdesi": 88.5
   },
   {
-    "makine_kodu": "MAK-014",
+    "makine_kodu": "600-3",
     "makine_tanimi": "Zemin Temizleme Robotu",
     "is_yuzdesi": 100.0
   },
   {
-    "makine_kodu": "MAK-015",
+    "makine_kodu": "750-1",
     "makine_tanimi": "Paletleme Robotu",
     "is_yuzdesi": 72.1
   },
   {
-    "makine_kodu": "MAK-016",
+    "makine_kodu": "900-1",
     "makine_tanimi": "Ambalajlama Makinesi - Otomatik",
     "is_yuzdesi": 59.9
   },
   {
-    "makine_kodu": "MAK-017",
+    "makine_kodu": "900-2",
     "makine_tanimi": "Boru Bükme Makinesi",
     "is_yuzdesi": 65.0
   },
   {
-    "makine_kodu": "MAK-018",
+    "makine_kodu": "900-3",
     "makine_tanimi": "Çapak Alma Makinesi",
     "is_yuzdesi": 80.0
   },
   {
-    "makine_kodu": "MAK-019",
+    "makine_kodu": "1500-1",
     "makine_tanimi": "Lehimleme Makinesi - SMD",
     "is_yuzdesi": 42.5
   },
   {
-    "makine_kodu": "MAK-020",
+    "makine_kodu": "1600-1",
     "makine_tanimi": "Yüksek Hızlı Montaj Hattı",
     "is_yuzdesi": 91.3
   }
